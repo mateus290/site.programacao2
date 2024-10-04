@@ -3,7 +3,7 @@ body {
     color: goldenrod;
 }
 footer {
-   background-color: black;
+   background-color: goldenrod;
    color: white; 
    position: fixed;
    bottom: 0;
