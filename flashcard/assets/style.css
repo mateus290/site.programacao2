@@ -38,7 +38,7 @@ body {
 }
 .cartao {
 margin: 1rem 1rem;
-background-color: burlywood;
+background-color: brown;
 height: 20rem;
 flex-basis: dalc(33% - 6rem);
 }
