@@ -6,7 +6,7 @@ body {
 
 /* Estilização do rodapé */
 footer {
-    background-color: black; /* Cor de fundo final para o rodapé */
+    background-color: rgb(11, 60, 18); /* Cor de fundo final para o rodapé */
     color: aliceblue; /* Cor do texto */
     position: fixed;
     bottom: 0;
