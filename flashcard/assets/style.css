@@ -36,7 +36,7 @@ footer p {
 }
 
 .cartao_conteudo {
-    background-color: var(--card-front-color, slategrey); /* Cor com fallback */
+    background-color: var(--card-front-color, rgb(171, 141, 65)); /* Cor com fallback */
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
